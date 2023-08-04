@@ -1,4 +1,6 @@
 実験ちう
+ハロハロー
 
 .git add
 .git commit
+.git rm
