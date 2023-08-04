@@ -1,1 +1,4 @@
 実験ちう
+
+.git add
+.git commit
